@@ -63,7 +63,7 @@ componentDidMount(){
                 
                
                            
-                            <p className="state"> Last Updated Time By Srikant :- {globals.lastupdatedtime}</p>
+                            <p className="state">Updated By Srikant :- {globals.lastupdatedtime}</p>
                          
                            
                        
